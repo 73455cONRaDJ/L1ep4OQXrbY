@@ -230,7 +230,6 @@ def search_new_repo_by_category(category: str,
                                                  )
     elif category == 'Alternative Finance':
         # don't include crypto here as it will skew the results, consider putting it as a seperate category
-        combined_df = search_repo_multiple_terms(['private equity',
                                                   'venture capital',
                                                   'real estate trading',
                                                   'real estate finance',
