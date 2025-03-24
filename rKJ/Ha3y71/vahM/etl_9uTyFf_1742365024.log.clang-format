@@ -2,7 +2,6 @@
 Language: Cpp
 BasedOnStyle: Google
 AccessModifierOffset: -4
-AllowShortFunctionsOnASingleLine: Inline
 ColumnLimit: 100
 ConstructorInitializerIndentWidth: 8 # double of IndentWidth
 ContinuationIndentWidth: 8 # double of IndentWidth
