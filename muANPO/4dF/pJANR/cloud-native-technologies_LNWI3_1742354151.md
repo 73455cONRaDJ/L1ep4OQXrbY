@@ -8,7 +8,6 @@ Think of Hacking the Cloud as the [Wikipedia](https://www.wikipedia.org/) of clo
 
 __If you are an author and believe your work has been plagiarized on Hacking the Cloud, please submit an [issue](https://github.com/Hacking-the-Cloud/hackingthe.cloud/issues) on GitHub and it will be taken down quickly.__
 
-There is one exception to this policy; If you are the original author of the article or blog post, you are welcome to copy the contents of it and include it here on Hacking the Cloud. This rule is intended to make it easy for authors to contribute their work without having to go through the trouble of editing/changing it. If it is later determined that the submitter is not the original author, the work will be removed.
 
 ## Content Removal Policy
 
