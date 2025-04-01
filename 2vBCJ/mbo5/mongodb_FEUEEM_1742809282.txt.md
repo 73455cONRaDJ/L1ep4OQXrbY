@@ -5736,7 +5736,6 @@ double:1bit(符号位)+11bit（指数位）+52bit(尾数位) 2^52=45035996273704
 [![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 输出：3.140000,10.500000 因为%lf只保留小数点后6位。
-
  
 
 ## **453.字符常量** 
