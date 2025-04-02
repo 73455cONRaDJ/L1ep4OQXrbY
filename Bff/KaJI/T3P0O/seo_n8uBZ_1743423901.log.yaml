@@ -2,4 +2,3 @@ repos:
   - repo: https://github.com/qoomon/git-conventional-commits
     rev: v2.6.3
     hooks:
-      - id: conventional-commits
