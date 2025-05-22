@@ -21,7 +21,6 @@ Zdir是一款使用使用Golang + Vue3开发的多功能私有存储程序，集
 今天，我们自豪地宣布Zdir `4.x`版本的到来。`4.x`在`3.x.x`版本的基础上进行了升级优化，前端界面重新布局和设计，部分风格参考了Alist，整体依旧以简洁实用为主。
 
 > 从4.x版本开始，我们将不再开源。之前的源码仍然可以在Github上找到：[https://github.com/helloxz/zdir](https://github.com/helloxz/zdir "https://github.com/helloxz/zdir")
-
 ## 4.x版本功能
 
 - [x] 离线下载
