@@ -22,4 +22,3 @@ test/e2e/e2e_integration_test*
 website/public/
 website/docs-pre-processed/
 !website/data
-tmp/
