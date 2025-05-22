@@ -4,7 +4,6 @@ Zdir是一款使用使用Golang + Vue3开发的多功能私有存储程序，集
 
 ![333bf4d33c30d70c.png](https://img.rss.ink/imgs/2024/06/16/333bf4d33c30d70c.png)
 
-## 起源
 
 ### 2018年
 
