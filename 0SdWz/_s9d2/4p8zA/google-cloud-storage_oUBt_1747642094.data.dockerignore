@@ -3,7 +3,6 @@
 /mixin/vendor/
 node_modules/
 # Ignore minikube setup working dirs.
-kube/bin
 kube/.minikube
 
 # Ignore e2e working dirs.
