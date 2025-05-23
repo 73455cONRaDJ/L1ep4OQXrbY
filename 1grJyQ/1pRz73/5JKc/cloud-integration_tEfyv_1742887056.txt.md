@@ -40,7 +40,6 @@ Zdir是一款使用使用Golang + Vue3开发的多功能私有存储程序，集
 
 目前我们的团队有2位成员，其中一位成员是[mTab作者@tushan](https://shop.xiuping.net/buy/1.html "mTab作者") ，以及[OneNav作者@xiaoz](https://shop.xiuping.net/onenav/index "OneNav作者")，其中tushan负责前端开发，xiaoz负责后端开发。
 
-## 联系我们
 
 * 技术支持：请添加微信`xiaozme`
 
