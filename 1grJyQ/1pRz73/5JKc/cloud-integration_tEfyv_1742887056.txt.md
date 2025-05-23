@@ -1,5 +1,4 @@
 # 关于Zdir
-
 Zdir是一款使用使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。
 
 ![333bf4d33c30d70c.png](https://img.rss.ink/imgs/2024/06/16/333bf4d33c30d70c.png)
