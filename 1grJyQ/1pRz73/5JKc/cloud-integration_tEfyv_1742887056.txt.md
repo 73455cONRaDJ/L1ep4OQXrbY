@@ -48,4 +48,3 @@ Zdir是一款使用使用Golang + Vue3开发的多功能私有存储程序，集
 
 * 官网：[https://www.zdir.pro/](https://www.zdir.pro/ "https://www.zdir.pro/")
 * 演示：[https://soft.xiaoz.org/#/](https://soft.xiaoz.org/#/ "https://soft.xiaoz.org/#/")
-* 购买授权：[https://shop.xiuping.net/zdir/index](https://shop.xiuping.net/zdir/index "https://shop.xiuping.net/zdir/index")
