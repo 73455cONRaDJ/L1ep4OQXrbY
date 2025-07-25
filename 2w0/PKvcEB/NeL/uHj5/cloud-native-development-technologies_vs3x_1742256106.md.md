@@ -15,7 +15,6 @@ EXPOSE 80
 
 1. **Prepare Your PHP Application**: Place your application's PHP code within a directory named `src`.
 
-2. **Build the Docker Image**: Execute the following command in your terminal, substituting `my-lamp-app` with your preferred name for the Docker image:
     ```
     docker build -t my-lamp-app .
     ```
